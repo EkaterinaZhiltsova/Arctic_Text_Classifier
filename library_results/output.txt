@@ -1,0 +1,1160 @@
+
+--- Текст #0 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Permafrost'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Permafrost'] | Лишние: []
+
+--- Текст #1 ---
+Правильные темы: ['Non-Arctic Countries', 'Permafrost']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Permafrost'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #2 ---
+Правильные темы: ['Non-Arctic Countries', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries'] | SVM: ['Permafrost'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #3 ---
+Правильные темы: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Svalbard'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Svalbard']
+Final: ['Arctic Militarization', 'Svalbard']
+Угаданы: ['Arctic Militarization', 'Svalbard'] | Пропущены: ['International Governance of Arctic Regions'] | Лишние: []
+
+--- Текст #4 ---
+Правильные темы: ['Arctic Indigenous Peoples']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: ['Arctic Indigenous Peoples'] | Пропущены: [] | Лишние: []
+
+--- Текст #5 ---
+Правильные темы: ['Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: [] | Лишние: []
+
+--- Текст #6 ---
+Правильные темы: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Science & Diplomacy', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Svalbard'] | SVM: ['Arctic Militarization', 'Svalbard'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization', 'Svalbard']
+Угаданы: ['Arctic Militarization', 'Svalbard'] | Пропущены: ['International Governance of Arctic Regions', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #7 ---
+Правильные темы: ['Arctic Resource Extraction', 'Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #8 ---
+Правильные темы: ['Arctic Militarization', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Svalbard'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Svalbard'] | Лишние: []
+
+--- Текст #9 ---
+Правильные темы: ['Arctic Resource Extraction', 'Permafrost']
+Предсказание:
+Decision Tree: ['Permafrost'] | SVM: ['Not Classified'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #10 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'International Governance of Arctic Regions'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Arctic Militarization', 'International Governance of Arctic Regions']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: ['International Governance of Arctic Regions']
+
+--- Текст #11 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: [] | Пропущены: [] | Лишние: ['Arctic Indigenous Peoples']
+
+--- Текст #12 ---
+Правильные темы: ['Arctic Shipping', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Shipping'] | SVM: ['Not Classified'] | Zero-Shot: ['Permafrost']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Shipping', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #13 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Shipping'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Militarization'] | Лишние: []
+
+--- Текст #14 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: []
+
+--- Текст #15 ---
+Правильные темы: ['International Governance of Arctic Regions']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions'] | SVM: ['International Governance of Arctic Regions'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: [] | Лишние: []
+
+--- Текст #16 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Resource Extraction', 'International Governance of Arctic Regions', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Militarization', 'International Governance of Arctic Regions'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Arctic Militarization', 'Arctic Resource Extraction', 'Non-Arctic Countries'] | Лишние: []
+
+--- Текст #17 ---
+Правильные темы: ['Arctic Militarization', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Non-Arctic Countries'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #18 ---
+Правильные темы: ['Non-Arctic Countries', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #19 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Shipping'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Militarization', 'Arctic Shipping']
+Угаданы: ['Arctic Militarization', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #20 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Arctic Shipping'] | SVM: ['Arctic Resource Extraction', 'Arctic Shipping'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Resource Extraction', 'Arctic Shipping']
+Угаданы: ['Arctic Resource Extraction', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #21 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #22 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #23 ---
+Правильные темы: ['Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Permafrost', 'Science & Diplomacy'] | SVM: ['Permafrost'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #24 ---
+Правильные темы: ['Arctic Resource Extraction', 'Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #25 ---
+Правильные темы: ['Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #26 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Permafrost', 'Science & Diplomacy'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: []
+
+--- Текст #27 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Shipping'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: []
+
+--- Текст #28 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping', 'Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Arctic Shipping', 'International Governance of Arctic Regions', 'Permafrost'] | SVM: ['Arctic Shipping', 'Permafrost'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Shipping', 'Permafrost']
+Угаданы: ['Arctic Shipping', 'Permafrost'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #29 ---
+Правильные темы: ['Arctic Resource Extraction', 'International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction', 'International Governance of Arctic Regions'] | SVM: ['Arctic Indigenous Peoples', 'Science & Diplomacy'] | Zero-Shot: ['Arctic Resource Extraction']
+Final: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction']
+Угаданы: ['Arctic Resource Extraction'] | Пропущены: ['International Governance of Arctic Regions', 'Science & Diplomacy'] | Лишние: ['Arctic Indigenous Peoples']
+
+--- Текст #30 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction', 'Permafrost'] | SVM: ['Arctic Indigenous Peoples', 'Permafrost'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples', 'Permafrost']
+Угаданы: ['Arctic Indigenous Peoples', 'Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #31 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Militarization', 'Arctic Shipping'] | Лишние: []
+
+--- Текст #32 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Arctic Shipping', 'Non-Arctic Countries'] | SVM: ['Arctic Resource Extraction', 'Arctic Shipping'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Arctic Resource Extraction', 'Arctic Shipping']
+Угаданы: ['Arctic Resource Extraction', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #33 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: []
+
+--- Текст #34 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping', 'Science & Diplomacy'] | SVM: ['Arctic Militarization', 'Arctic Shipping'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Militarization', 'Arctic Shipping']
+Угаданы: ['Arctic Militarization', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #35 ---
+Правильные темы: ['Arctic Militarization', 'International Governance of Arctic Regions']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Arctic Militarization', 'International Governance of Arctic Regions'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['International Governance of Arctic Regions'] | Лишние: []
+
+--- Текст #36 ---
+Правильные темы: ['Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries'] | SVM: ['Non-Arctic Countries', 'Science & Diplomacy'] | Zero-Shot: ['Svalbard']
+Final: ['Non-Arctic Countries']
+Угаданы: ['Non-Arctic Countries'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #37 ---
+Правильные темы: ['Non-Arctic Countries', 'Science & Diplomacy', 'Svalbard']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Science & Diplomacy', 'Svalbard'] | SVM: ['Science & Diplomacy', 'Svalbard'] | Zero-Shot: ['Svalbard']
+Final: ['Science & Diplomacy', 'Svalbard']
+Угаданы: ['Science & Diplomacy', 'Svalbard'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #38 ---
+Правильные темы: ['Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Non-Arctic Countries']
+Угаданы: ['Non-Arctic Countries'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #39 ---
+Правильные темы: ['Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Shipping'] | Лишние: []
+
+--- Текст #40 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['International Governance of Arctic Regions', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #41 ---
+Правильные темы: ['Arctic Militarization', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #42 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: []
+
+--- Текст #43 ---
+Правильные темы: ['Arctic Militarization', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Non-Arctic Countries'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Arctic Militarization', 'International Governance of Arctic Regions']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Non-Arctic Countries'] | Лишние: ['International Governance of Arctic Regions']
+
+--- Текст #44 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions', 'Non-Arctic Countries'] | SVM: ['International Governance of Arctic Regions'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #45 ---
+Правильные темы: ['Arctic Militarization', 'International Governance of Arctic Regions']
+Предсказание:
+Decision Tree: ['Arctic Shipping'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Shipping']
+Угаданы: [] | Пропущены: ['Arctic Militarization', 'International Governance of Arctic Regions'] | Лишние: ['Arctic Shipping']
+
+--- Текст #46 ---
+Правильные темы: ['Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Science & Diplomacy'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #47 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Svalbard']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #48 ---
+Правильные темы: ['Arctic Indigenous Peoples']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: ['Arctic Indigenous Peoples'] | Пропущены: [] | Лишние: []
+
+--- Текст #49 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping', 'International Governance of Arctic Regions', 'Science & Diplomacy'] | SVM: ['Arctic Militarization', 'Arctic Resource Extraction'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping']
+Угаданы: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #50 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions', 'Science & Diplomacy'] | SVM: ['Arctic Militarization', 'International Governance of Arctic Regions'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #51 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Resource Extraction']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost', 'Svalbard'] | SVM: ['Arctic Resource Extraction'] | Zero-Shot: ['Svalbard']
+Final: ['Arctic Resource Extraction', 'Svalbard']
+Угаданы: ['Arctic Resource Extraction'] | Пропущены: ['Arctic Militarization'] | Лишние: ['Svalbard']
+
+--- Текст #52 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction', 'International Governance of Arctic Regions', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction', 'International Governance of Arctic Regions'] | SVM: ['Arctic Indigenous Peoples', 'Science & Diplomacy'] | Zero-Shot: ['Arctic Resource Extraction']
+Final: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction']
+Угаданы: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction'] | Пропущены: ['International Governance of Arctic Regions', 'Permafrost', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #53 ---
+Правильные темы: ['Non-Arctic Countries', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Permafrost'] | SVM: ['Permafrost', 'Science & Diplomacy'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #54 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #55 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['International Governance of Arctic Regions', 'Non-Arctic Countries'] | Лишние: []
+
+--- Текст #56 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Svalbard'] | SVM: ['Svalbard'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: [] | Пропущены: [] | Лишние: ['Svalbard']
+
+--- Текст #57 ---
+Правильные темы: ['Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #58 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'International Governance of Arctic Regions']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions'] | SVM: ['International Governance of Arctic Regions'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Arctic Indigenous Peoples'] | Лишние: []
+
+--- Текст #59 ---
+Правильные темы: ['Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: [] | Лишние: []
+
+--- Текст #60 ---
+Правильные темы: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions', 'Science & Diplomacy'] | SVM: ['International Governance of Arctic Regions'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Arctic Militarization', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #61 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Militarization', 'Arctic Shipping'] | SVM: ['Arctic Militarization', 'Arctic Shipping'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Militarization', 'Arctic Shipping']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Arctic Indigenous Peoples'] | Лишние: ['Arctic Shipping']
+
+--- Текст #62 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Non-Arctic Countries'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Arctic Shipping', 'Non-Arctic Countries'] | Лишние: []
+
+--- Текст #63 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #64 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping'] | SVM: ['Arctic Resource Extraction', 'Arctic Shipping'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Resource Extraction', 'Arctic Shipping']
+Угаданы: ['Arctic Resource Extraction', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #65 ---
+Правильные темы: ['Non-Arctic Countries', 'Svalbard']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions'] | SVM: ['Svalbard'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #66 ---
+Правильные темы: ['Svalbard']
+Предсказание:
+Decision Tree: ['Svalbard'] | SVM: ['Svalbard'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: [] | Лишние: []
+
+--- Текст #67 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping', 'Permafrost']
+Предсказание:
+Decision Tree: ['Svalbard'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Resource Extraction', 'Arctic Shipping', 'Permafrost'] | Лишние: []
+
+--- Текст #68 ---
+Правильные темы: ['Science & Diplomacy', 'Svalbard']
+Предсказание:
+Decision Tree: ['Permafrost', 'Science & Diplomacy', 'Svalbard'] | SVM: ['Not Classified'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #69 ---
+Правильные темы: ['Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Non-Arctic Countries']
+Угаданы: ['Non-Arctic Countries'] | Пропущены: [] | Лишние: []
+
+--- Текст #70 ---
+Правильные темы: ['Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: [] | Лишние: []
+
+--- Текст #71 ---
+Правильные темы: ['Arctic Militarization', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: ['Arctic Militarization'] | Лишние: []
+
+--- Текст #72 ---
+Правильные темы: ['Arctic Resource Extraction']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction'] | SVM: ['Not Classified'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #73 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #74 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Shipping', 'International Governance of Arctic Regions'] | SVM: ['Not Classified'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['International Governance of Arctic Regions', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #75 ---
+Правильные темы: ['Arctic Indigenous Peoples']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Non-Arctic Countries'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: ['Arctic Indigenous Peoples'] | Пропущены: [] | Лишние: []
+
+--- Текст #76 ---
+Правильные темы: ['Arctic Shipping', 'Svalbard']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Svalbard'] | SVM: ['Svalbard'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Non-Arctic Countries', 'Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: ['Arctic Shipping'] | Лишние: ['Non-Arctic Countries']
+
+--- Текст #77 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #78 ---
+Правильные темы: ['Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction'] | SVM: ['Svalbard'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: [] | Лишние: []
+
+--- Текст #79 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Arctic Shipping'] | SVM: ['Arctic Resource Extraction', 'Arctic Shipping'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Resource Extraction', 'Arctic Shipping']
+Угаданы: ['Arctic Resource Extraction', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #80 ---
+Правильные темы: ['Arctic Resource Extraction', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Svalbard'] | SVM: ['Svalbard'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #81 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: [] | Лишние: []
+
+--- Текст #82 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Shipping', 'Science & Diplomacy'] | SVM: ['Arctic Militarization', 'Arctic Shipping'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Shipping']
+Угаданы: ['Arctic Shipping'] | Пропущены: ['Arctic Militarization', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #83 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Permafrost', 'Science & Diplomacy'] | SVM: ['Permafrost'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #84 ---
+Правильные темы: ['Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: ['Permafrost'] | Лишние: []
+
+--- Текст #85 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['International Governance of Arctic Regions'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: ['International Governance of Arctic Regions'] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #86 ---
+Правильные темы: ['Arctic Indigenous Peoples']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: ['Arctic Indigenous Peoples'] | Пропущены: [] | Лишние: []
+
+--- Текст #87 ---
+Правильные темы: ['Arctic Shipping', 'International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Science & Diplomacy'] | SVM: ['Non-Arctic Countries'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Shipping', 'International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #88 ---
+Правильные темы: ['Non-Arctic Countries', 'Permafrost']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Permafrost'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #89 ---
+Правильные темы: ['Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #90 ---
+Правильные темы: ['Arctic Militarization', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Svalbard'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Svalbard'] | Лишние: []
+
+--- Текст #91 ---
+Правильные темы: ['Arctic Militarization', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction'] | SVM: ['Arctic Militarization', 'Svalbard'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Svalbard'] | Лишние: []
+
+--- Текст #92 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: ['Arctic Resource Extraction', 'Arctic Shipping'] | Лишние: []
+
+--- Текст #93 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Militarization'] | Лишние: []
+
+--- Текст #94 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #95 ---
+Правильные темы: ['Svalbard']
+Предсказание:
+Decision Tree: ['Svalbard'] | SVM: ['Not Classified'] | Zero-Shot: ['Svalbard']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: [] | Лишние: []
+
+--- Текст #96 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Arctic Shipping'] | SVM: ['Arctic Militarization', 'Arctic Shipping'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization', 'Arctic Shipping']
+Угаданы: ['Arctic Militarization', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #97 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Permafrost'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Resource Extraction']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #98 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Permafrost']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #99 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Indigenous Peoples', 'Permafrost', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #100 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #101 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Resource Extraction', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Shipping', 'International Governance of Arctic Regions', 'Non-Arctic Countries', 'Permafrost'] | SVM: ['Non-Arctic Countries'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Non-Arctic Countries']
+Угаданы: ['Non-Arctic Countries'] | Пропущены: ['Arctic Militarization', 'Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #102 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Resource Extraction', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Science & Diplomacy'] | SVM: ['Not Classified'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: ['Science & Diplomacy'] | Пропущены: ['Arctic Militarization', 'Arctic Resource Extraction', 'Permafrost'] | Лишние: []
+
+--- Текст #103 ---
+Правильные темы: ['Non-Arctic Countries', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Science & Diplomacy'] | SVM: ['Non-Arctic Countries', 'Science & Diplomacy'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Non-Arctic Countries', 'Science & Diplomacy']
+Угаданы: ['Non-Arctic Countries', 'Science & Diplomacy'] | Пропущены: [] | Лишние: []
+
+--- Текст #104 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Shipping'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Shipping']
+Угаданы: ['Arctic Shipping'] | Пропущены: ['Arctic Militarization'] | Лишние: []
+
+--- Текст #105 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy', 'Svalbard']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Svalbard'] | SVM: ['Svalbard'] | Zero-Shot: ['Arctic Resource Extraction']
+Final: ['Svalbard']
+Угаданы: ['Svalbard'] | Пропущены: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #106 ---
+Правильные темы: ['Arctic Resource Extraction', 'International Governance of Arctic Regions']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction'] | SVM: ['Arctic Shipping'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Shipping']
+Угаданы: [] | Пропущены: ['Arctic Resource Extraction', 'International Governance of Arctic Regions'] | Лишние: ['Arctic Shipping']
+
+--- Текст #107 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'Arctic Resource Extraction', 'International Governance of Arctic Regions', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'Science & Diplomacy'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: ['Arctic Indigenous Peoples'] | Пропущены: ['Arctic Resource Extraction', 'International Governance of Arctic Regions', 'Science & Diplomacy'] | Лишние: []
+
+--- Текст #108 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: [] | Лишние: []
+
+--- Текст #109 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'International Governance of Arctic Regions', 'Science & Diplomacy', 'Svalbard'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy', 'Svalbard'] | Лишние: []
+
+--- Текст #110 ---
+Правильные темы: ['Arctic Resource Extraction', 'International Governance of Arctic Regions']
+Предсказание:
+Decision Tree: ['Permafrost', 'Science & Diplomacy'] | SVM: ['Permafrost'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Permafrost', 'Science & Diplomacy']
+Угаданы: [] | Пропущены: ['Arctic Resource Extraction', 'International Governance of Arctic Regions'] | Лишние: ['Permafrost', 'Science & Diplomacy']
+
+--- Текст #111 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['Arctic Indigenous Peoples']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: ['Arctic Indigenous Peoples'] | Пропущены: ['Permafrost'] | Лишние: []
+
+--- Текст #112 ---
+Правильные темы: ['Arctic Militarization', 'Non-Arctic Countries', 'Permafrost']
+Предсказание:
+Decision Tree: ['Arctic Shipping', 'International Governance of Arctic Regions', 'Non-Arctic Countries'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['International Governance of Arctic Regions']
+Угаданы: [] | Пропущены: ['Arctic Militarization', 'Non-Arctic Countries', 'Permafrost'] | Лишние: ['International Governance of Arctic Regions']
+
+--- Текст #113 ---
+Правильные темы: ['Arctic Resource Extraction']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction'] | SVM: ['Not Classified'] | Zero-Shot: ['Arctic Resource Extraction']
+Final: ['Arctic Resource Extraction']
+Угаданы: ['Arctic Resource Extraction'] | Пропущены: [] | Лишние: []
+
+--- Текст #114 ---
+Правильные темы: ['Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Science & Diplomacy'] | Лишние: []
+
+--- Текст #115 ---
+Правильные темы: ['International Governance of Arctic Regions', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['International Governance of Arctic Regions', 'Non-Arctic Countries'] | Лишние: []
+
+--- Текст #116 ---
+Правильные темы: ['Arctic Militarization']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Militarization'] | Лишние: []
+
+--- Текст #117 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #118 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Shipping'] | SVM: ['Arctic Militarization', 'Arctic Shipping'] | Zero-Shot: ['Arctic Resource Extraction']
+Final: ['Arctic Militarization', 'Arctic Shipping']
+Угаданы: ['Arctic Militarization', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #119 ---
+Правильные темы: ['Arctic Militarization', 'Svalbard']
+Предсказание:
+Decision Tree: ['Arctic Militarization'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Svalbard'] | Лишние: []
+
+--- Текст #120 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples'] | SVM: ['Arctic Indigenous Peoples'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Indigenous Peoples']
+Угаданы: [] | Пропущены: [] | Лишние: ['Arctic Indigenous Peoples']
+
+--- Текст #121 ---
+Правильные темы: ['Arctic Militarization', 'Arctic Resource Extraction']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #122 ---
+Правильные темы: ['Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Shipping'] | SVM: ['Arctic Shipping'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Arctic Shipping']
+Угаданы: ['Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #123 ---
+Правильные темы: ['Non-Arctic Countries', 'Permafrost']
+Предсказание:
+Decision Tree: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy'] | SVM: ['Science & Diplomacy'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Science & Diplomacy']
+Угаданы: [] | Пропущены: ['Non-Arctic Countries', 'Permafrost'] | Лишние: ['Science & Diplomacy']
+
+--- Текст #124 ---
+Правильные темы: ['Svalbard']
+Предсказание:
+Decision Tree: ['Permafrost', 'Svalbard'] | SVM: ['Not Classified'] | Zero-Shot: ['Permafrost']
+Final: ['Permafrost']
+Угаданы: [] | Пропущены: ['Svalbard'] | Лишние: ['Permafrost']
+
+--- Текст #125 ---
+Правильные темы: ['Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'Arctic Resource Extraction', 'Non-Arctic Countries'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Non-Arctic Countries']
+Угаданы: ['Non-Arctic Countries'] | Пропущены: [] | Лишние: []
+
+--- Текст #126 ---
+Правильные темы: ['Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Permafrost', 'Science & Diplomacy'] | SVM: ['Permafrost', 'Science & Diplomacy'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Permafrost', 'Science & Diplomacy']
+Угаданы: ['Permafrost', 'Science & Diplomacy'] | Пропущены: [] | Лишние: []
+
+--- Текст #127 ---
+Правильные темы: ['Permafrost']
+Предсказание:
+Decision Tree: ['Permafrost', 'Science & Diplomacy'] | SVM: ['Not Classified'] | Zero-Shot: ['Svalbard']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Permafrost'] | Лишние: []
+
+--- Текст #128 ---
+Правильные темы: ['Arctic Resource Extraction', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Non-Arctic Countries', 'Permafrost'] | SVM: ['Arctic Resource Extraction', 'Arctic Shipping'] | Zero-Shot: ['International Governance of Arctic Regions']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: ['Arctic Resource Extraction', 'Non-Arctic Countries'] | Лишние: []
+
+--- Текст #129 ---
+Правильные темы: ['Arctic Resource Extraction', 'Permafrost']
+Предсказание:
+Decision Tree: ['Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['Science & Diplomacy']
+Final: ['Permafrost']
+Угаданы: ['Permafrost'] | Пропущены: ['Arctic Resource Extraction'] | Лишние: []
+
+--- Текст #130 ---
+Правильные темы: ['Arctic Militarization', 'Non-Arctic Countries']
+Предсказание:
+Decision Tree: ['Arctic Militarization', 'International Governance of Arctic Regions', 'Non-Arctic Countries'] | SVM: ['Arctic Militarization'] | Zero-Shot: ['Arctic Militarization']
+Final: ['Arctic Militarization']
+Угаданы: ['Arctic Militarization'] | Пропущены: ['Non-Arctic Countries'] | Лишние: []
+
+--- Текст #131 ---
+Правильные темы: ['Arctic Resource Extraction', 'Arctic Shipping']
+Предсказание:
+Decision Tree: ['Arctic Resource Extraction', 'Science & Diplomacy'] | SVM: ['Arctic Resource Extraction', 'Arctic Shipping'] | Zero-Shot: ['Arctic Shipping']
+Final: ['Arctic Resource Extraction', 'Arctic Shipping']
+Угаданы: ['Arctic Resource Extraction', 'Arctic Shipping'] | Пропущены: [] | Лишние: []
+
+--- Текст #132 ---
+Правильные темы: []
+Предсказание:
+Decision Tree: ['Not Classified'] | SVM: ['Not Classified'] | Zero-Shot: ['Non-Arctic Countries']
+Final: ['Not Classified']
+Угаданы: [] | Пропущены: [] | Лишние: []
+
+--- Текст #133 ---
+Правильные темы: ['Arctic Indigenous Peoples', 'International Governance of Arctic Regions', 'Non-Arctic Countries', 'Permafrost', 'Science & Diplomacy']
+Предсказание:
+Decision Tree: ['Arctic Indigenous Peoples', 'International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy'] | SVM: ['Arctic Indigenous Peoples', 'Permafrost'] | Zero-Shot: ['Permafrost']
+Final: ['Arctic Indigenous Peoples', 'Permafrost']
+Угаданы: ['Arctic Indigenous Peoples', 'Permafrost'] | Пропущены: ['International Governance of Arctic Regions', 'Non-Arctic Countries', 'Science & Diplomacy'] | Лишние: []
+
+Метод: Decision Tree
+
+Метод: Decision Tree, Тематика: Arctic Indigenous Peoples
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 11                  5
+Ненайденные (0)                1                117
+
+Метод: Decision Tree, Тематика: Arctic Militarization
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 31                  9
+Ненайденные (0)                9                 85
+
+Метод: Decision Tree, Тематика: Arctic Resource Extraction
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 18                 18
+Ненайденные (0)                9                 89
+
+Метод: Decision Tree, Тематика: Arctic Shipping
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 14                  7
+Ненайденные (0)                8                105
+
+Метод: Decision Tree, Тематика: International Governance of Arctic Regions
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 12                 10
+Ненайденные (0)               13                 99
+
+Метод: Decision Tree, Тематика: Non-Arctic Countries
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 21                  4
+Ненайденные (0)               12                 97
+
+Метод: Decision Tree, Тематика: Permafrost
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 18                  8
+Ненайденные (0)               13                 95
+
+Метод: Decision Tree, Тематика: Science & Diplomacy
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 23                  9
+Ненайденные (0)               16                 86
+
+Метод: Decision Tree, Тематика: Svalbard
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 13                  3
+Ненайденные (0)                4                114
+
+Метод: SVM
+
+Метод: SVM, Тематика: Arctic Indigenous Peoples
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  8                  3
+Ненайденные (0)                4                119
+
+Метод: SVM, Тематика: Arctic Militarization
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 29                  1
+Ненайденные (0)               11                 93
+
+Метод: SVM, Тематика: Arctic Resource Extraction
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  8                  0
+Ненайденные (0)               19                107
+
+Метод: SVM, Тематика: Arctic Shipping
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 11                  3
+Ненайденные (0)               11                109
+
+Метод: SVM, Тематика: International Governance of Arctic Regions
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  7                  0
+Ненайденные (0)               18                109
+
+Метод: SVM, Тематика: Non-Arctic Countries
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  4                  0
+Ненайденные (0)               29                101
+
+Метод: SVM, Тематика: Permafrost
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 21                  1
+Ненайденные (0)               10                102
+
+Метод: SVM, Тематика: Science & Diplomacy
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 17                  3
+Ненайденные (0)               22                 92
+
+Метод: SVM, Тематика: Svalbard
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  9                  1
+Ненайденные (0)                8                116
+
+Метод: Zero-Shot
+
+Метод: Zero-Shot, Тематика: Arctic Indigenous Peoples
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  6                  3
+Ненайденные (0)                6                119
+
+Метод: Zero-Shot, Тематика: Arctic Militarization
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  9                  0
+Ненайденные (0)               31                 94
+
+Метод: Zero-Shot, Тематика: Arctic Resource Extraction
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  3                  3
+Ненайденные (0)               24                104
+
+Метод: Zero-Shot, Тематика: Arctic Shipping
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 10                  4
+Ненайденные (0)               12                108
+
+Метод: Zero-Shot, Тематика: International Governance of Arctic Regions
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 11                 16
+Ненайденные (0)               14                 93
+
+Метод: Zero-Shot, Тематика: Non-Arctic Countries
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  6                 28
+Ненайденные (0)               27                 73
+
+Метод: Zero-Shot, Тематика: Permafrost
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  7                  3
+Ненайденные (0)               24                100
+
+Метод: Zero-Shot, Тематика: Science & Diplomacy
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  7                  5
+Ненайденные (0)               32                 90
+
+Метод: Zero-Shot, Тематика: Svalbard
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  8                  5
+Ненайденные (0)                9                112
+
+Метод: Voting, Тематика: Arctic Indigenous Peoples
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  9                  3
+Ненайденные (0)                3                119
+
+Метод: Voting, Тематика: Arctic Militarization
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 26                  0
+Ненайденные (0)               14                 94
+
+Метод: Voting, Тематика: Arctic Resource Extraction
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 10                  0
+Ненайденные (0)               17                107
+
+Метод: Voting, Тематика: Arctic Shipping
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 14                  3
+Ненайденные (0)                8                109
+
+Метод: Voting, Тематика: International Governance of Arctic Regions
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  8                  3
+Ненайденные (0)               17                106
+
+Метод: Voting, Тематика: Non-Arctic Countries
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                  6                  1
+Ненайденные (0)               27                100
+
+Метод: Voting, Тематика: Permafrost
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 21                  2
+Ненайденные (0)               10                101
+
+Метод: Voting, Тематика: Science & Diplomacy
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 11                  2
+Ненайденные (0)               28                 93
+
+Метод: Voting, Тематика: Svalbard
+Таблица с метриками (TP, TN, FP, FN):
+                 Релевантные (1)  Нерелевантные (0)
+Найденные (1)                 11                  2
+Ненайденные (0)                6                115
