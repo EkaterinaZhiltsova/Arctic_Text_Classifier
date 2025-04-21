@@ -7,7 +7,8 @@
 	- `classify_text` — функция классификации по всем темам.
 - `classification_models.ipynb` — файл с обучением моделей для библиотеки; классификация методами: Decision Tree, Zero-Shot (Одноклассовая, Одноклассовая оптимальная, Многоклассовая), Метод опорных векторов (SVM), Naive Bayes, Logistic Regression; проверка устойчивости методов
 - `models/` — предобученные модели Decision Tree и SVM и векторизаторы для соответствующих моделей.
-- `results/` — сохранённые Excel-результаты и логи.
+- `metrics_results/` — сохранённые метрики и результаты проверки устойчивости для всех методов из файла `classification_models.ipynb`.
+- `library_results/` — сохранённые метрики и логи работы библиотеки `text_classifier_library.ipynb`.
 
 ---
 
