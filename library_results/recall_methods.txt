@@ -1,0 +1,10 @@
+method        Arctic      Arctic      Arctic   Arctic International Non- Permafrost Science & Svalbard
+           Indigenous Militarization Resource Shipping Governance Arctic           Diplomacy
+             Peoples                Extraction          of Arctic Countries
+                                                        Regions
+Decision
+Tree             0.92        0.78     0.67     0.64        0.48     0.64       0.58      0.59    0.76
+SVM              0.67        0.72      0.3      0.5        0.28     0.12       0.68      0.44    0.53
+Zero-
+Shot              0.5        0.23     0.11     0.45        0.44     0.18       0.23      0.18    0.47
+

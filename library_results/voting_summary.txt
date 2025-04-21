@@ -1,0 +1,9 @@
+ metric        Arctic      Arctic      Arctic   Arctic International Non- Permafrost Science & Svalbard
+            Indigenous Militarization Resource Shipping Governance Arctic           Diplomacy
+              Peoples                Extraction          of Arctic Countries
+                                                         Regions
+accuracy          0.96         0.9     0.87     0.92        0.85     0.79       0.91      0.78    0.94
+precision         0.75           1        1     0.82        0.73     0.86       0.91      0.85    0.85
+recall            0.75        0.65     0.37     0.64        0.32     0.18       0.68      0.28    0.65
+f1                0.75        0.79     0.54     0.72        0.44      0.3       0.78      0.42    0.73
+
