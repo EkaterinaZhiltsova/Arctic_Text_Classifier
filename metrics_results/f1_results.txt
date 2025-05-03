@@ -1,19 +1,0 @@
- method         Arctic      Arctic      Arctic   Arctic International Non- Permafrost Science & Svalbard
-             Indigenous Militarization Resource Shipping Governance Arctic           Diplomacy
-               Peoples                Extraction          of Arctic Countries
-                                                          Regions
-Decision
-Tree               0.79        0.78     0.57     0.65        0.51     0.72       0.63      0.65    0.79
-Zero-Shot
-Binary             0.26         0.6       0.3    0.47        0.37     0.29       0.37      0.54     0.5
-Zero-Shot
-Binary
-Optimal            0.34        0.61     0.32     0.56        0.49     0.21       0.31      0.52    0.76
-Zero-Shot
-Multi              0.57        0.37     0.18     0.56        0.42     0.18       0.34      0.27    0.53
-SVM                 0.7        0.83     0.46     0.61        0.44     0.22       0.79      0.58    0.67
-Naive
-Bayes                 0        0.33        0        0           0        0          0         0       0
-Logistic
-Regression         0.15        0.75     0.31     0.43        0.08        0       0.12      0.27    0.11
-
