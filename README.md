@@ -5,10 +5,8 @@
 - `text_classifier_library.ipynb` — библиотека для классификации с использованием предобученных моделей Decision Tree, Zero-Shot, SVM.
 	- `classify_text_single_theme` — функция классификации по одной теме.
 	- `classify_text` — функция классификации по всем темам.
-- `classification_models.ipynb` — файл с обучением моделей для библиотеки; классификация методами: Decision Tree, Zero-Shot (Одноклассовая, Одноклассовая оптимальная, Многоклассовая), Метод опорных векторов (SVM), Naive Bayes, Logistic Regression; проверка устойчивости методов.
+- `classification_models.ipynb` — файл с обучением моделей для библиотеки; классификация методами: Decision Tree, Zero-Shot (одноклассовая, одноклассовая оптимальная, многоклассовая), Метод опорных векторов (SVM), Naive Bayes, Logistic Regression; проверка устойчивости методов.
 - `models/` — предобученные модели Decision Tree и SVM и векторизаторы для соответствующих моделей.
-- `metrics_results/` — сохранённые метрики и результаты проверки устойчивости для всех методов из файла `classification_models.ipynb`.
-- `library_results/` — сохранённые метрики и логи работы библиотеки `text_classifier_library.ipynb`.
 
 ---
 
@@ -37,6 +35,8 @@
 7. Permafrost  
 8. Science & Diplomacy  
 9. Svalbard  
+
+---
 
 ## Описание функций
 
@@ -84,63 +84,67 @@
 
 Задача — определить, относится ли текст к теме **Permafrost** (номер 7 в списке тем):
 
+```
 theme_index = 7
 result = classify_text_single_theme(text, theme_index)
 print("Итоговая классификация:", result)
+```
 
 **Пример вывода:**
-
+```
 Итоговая классификация: True
-
+```
 ---
 
 ### Пример 2: Классификация по одной теме (подробный вывод)
 
 С тем же текстом, но с подробной информацией:
 
+```
 theme_index = 7
 detailed_result = classify_text_single_theme(text, theme_index, full_output=True)
 
 print("\nПодробно:")
 for k, v in detailed_result.items():
     print(f"{k}: {v}")
+```
 
 **Пример вывода:**
-
+```
 Подробно:
 theme: Permafrost
 Decision Tree: True
 SVM: True
 Zero-Shot: True
 Final: True
-
+```
 ---
 
 ### Пример 3: Классификация по всем темам (краткий вывод)
-
+```
 predicted_themes = classify_text(text)
 print("Темы:", predicted_themes)
-
+```
 **Пример вывода:**
-
+```
 Темы: ['Permafrost']
-
+```
 ---
 
 ### Пример 4: Классификация по всем темам (подробный вывод)
-
+```
 detailed = classify_text(text, full_output=True)
 
 print("--- Текст #1 ---")
 print("Предсказание:")
 print(f"Decision Tree: {detailed['Decision Tree']} | SVM: {detailed['SVM']} | Zero-Shot: {detailed['Zero-Shot']}")
 print("Final:", detailed['Final'])
-
+```
 **Пример вывода:**
-
+```
 --- Текст #1 ---
 Предсказание:
 Decision Tree: ['Permafrost'] | SVM: ['Permafrost'] | Zero-Shot: ['International Governance of Arctic Regions']
 Final: ['Permafrost']
-
+```
 ---
